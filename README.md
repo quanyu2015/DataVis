@@ -3,6 +3,7 @@
 
 Enrichment of bindings of individual transcription factors (TFs) in promoter regions of genes annotated with Huntington's disease (KEGG Pathway). P values for hypergeometric test are shown besides the bar indicating percentage of genes with a TF bound.  
 ![text](/figs/40.tfs.05016.pdf.png)
+<img src="/figs/40.tfs.05016.pdf.png" width="200">
 ---
 Hierarchical clustering of genes using the similarity of their TF binding profile as the distance measure. 
 ![text](/figs/06.TF.hc.bin5.pdf.png)
