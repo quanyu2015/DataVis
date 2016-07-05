@@ -2,13 +2,13 @@
 ### Author: QUAN YU, PhD
 
 Enrichment of bindings of individual transcription factors (TFs) in promoter regions of genes annotated with Huntington's disease (KEGG Pathway). P values for hypergeometric test are shown besides the bar indicating percentage of genes with a TF bound.  
-<img src="/figs/40.tfs.05016.pdf.png" width="500">
+<img src="/figs/40.tfs.05016.pdf.png" width="380">
 ---
 Hierarchical clustering of genes using the similarity of their TF binding profile as the distance measure. 
 <img src="/figs/06.TF.hc.bin5.pdf.png" width = "400">
 ---
 Heatmap of p-values for enrichment of individual TFs in 6 different gene sets. The darker the cell the smaller the p-value for a hypergeometric test. 
-<img src="/figs/44.heatmap.test.pdf.png" width = "500">
+<img src="/figs/44.heatmap.test.pdf.png" width = "400">
 ---
 Human exons were divided into 200 bins ordered by their GC-content. Relative expression of an exon bin in a sample was calculated as its total mapped read counts normalized by total read counts in the same exon bin across all samples and total read counts in that sample, and then log2 transformed. R funtion **smooth.spline** was used to fit the data. 
 ![text](/figs/1004.gc.bias.rand.pdf.png)
