@@ -1,6 +1,6 @@
 # Data Visualization
-### Author: QUAN YU, PhD
-
+### QUAN YU, PhD  
+####       
 Enrichment of bindings of individual transcription factors (TFs) in promoter regions of genes annotated with Huntington's disease (KEGG Pathway). P values for hypergeometric test are shown besides the bar indicating percentage of genes with a TF bound.  
 <img src="/figs/40.tfs.05016.pdf.png" width="380">
 ---
